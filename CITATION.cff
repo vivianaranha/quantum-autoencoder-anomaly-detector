@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Quantum Autoencoder Anomaly Detector"
+version: 1.0.0
+date-released: 2026-09-20
+authors:
+  - name: "School of AI and School of QC"
+license: MIT
+type: software
+abstract: "A reproducible quantum autoencoder project for state compression and anomaly detection."

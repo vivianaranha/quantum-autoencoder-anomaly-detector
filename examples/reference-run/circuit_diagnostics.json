@@ -1,0 +1,24 @@
+{
+  "input_qubits": 3,
+  "latent_qubits": 1,
+  "trash_qubits": 2,
+  "ansatz_reps": 2,
+  "input_state_dimension": 8,
+  "latent_state_dimension": 2,
+  "qubit_reduction_fraction": 0.6666666666666666,
+  "state_dimension_reduction_fraction": 0.75,
+  "latent_qubit_indices": [
+    0
+  ],
+  "trash_qubit_indices": [
+    1,
+    2
+  ],
+  "trainable_parameters": 18,
+  "encoder_depth": 12,
+  "encoder_operations": {
+    "r": 9,
+    "p": 9,
+    "cx": 6
+  }
+}

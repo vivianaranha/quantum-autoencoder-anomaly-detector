@@ -1,0 +1,15 @@
+include app.py
+include CHANGELOG.md CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE Makefile
+include PROJECT-MANIFEST.md README.md ROADMAP.md SECURITY.md
+include requirements.txt requirements-dev.txt
+include .env.example
+recursive-include configs *.json
+recursive-include data *.md
+recursive-include docs *.md *.png
+recursive-include examples *.csv *.json *.md *.txt
+recursive-include notebooks *.ipynb
+recursive-include scripts *.py
+recursive-include tests *.py
+recursive-include .github *.md *.yml
+recursive-include .streamlit *.toml
+prune artifacts

@@ -1,0 +1,14 @@
+{
+  "pca_autoencoder": {
+    "minimum": 0.0019194747335502243,
+    "maximum": 9.445317222750159
+  },
+  "isolation_forest": {
+    "minimum": 0.41978907383314573,
+    "maximum": 0.6187736094177034
+  },
+  "quantum_autoencoder": {
+    "minimum": 0.010793314035248525,
+    "maximum": 0.9679426559993566
+  }
+}

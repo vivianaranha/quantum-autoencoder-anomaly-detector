@@ -1,0 +1,7 @@
+{
+  "success": false,
+  "status": 3,
+  "message": "Return from COBYLA because the objective function has been evaluated MAXFUN times.",
+  "objective": 0.15721875091513066,
+  "evaluations": 100
+}

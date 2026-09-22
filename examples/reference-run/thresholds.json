@@ -1,0 +1,5 @@
+{
+  "pca_autoencoder": 0.025,
+  "isolation_forest": 0.46,
+  "quantum_autoencoder": 0.27
+}
